@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,OACE,cAAe,CACf,WAAY,CACZ,iBAAkB","file":"main.3d353fc0.chunk.css","sourcesContent":["\r\n.title {\r\n  background: red;\r\n  padding: 5px;\r\n  text-align: center;\r\n}"]}
